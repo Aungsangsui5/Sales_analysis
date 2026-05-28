@@ -14,7 +14,7 @@ This interactive Tableau dashboard helps analyze sales KPIs, revenue trends, pro
 
 ### Dashboard Preview
 
-![Chocolate Sales Dashboard](tableau_dashboard.png)
+![Chocolate Sales Dashboard](image.png)
 
 ## Key Insights
 - Tracked total sales performance using KPI metrics
