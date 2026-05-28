@@ -1,34 +1,36 @@
-# Chocolate Sales Analysis (SQL + Tableau)
+# Chocolate Sales Analysis
 
-## Project Objective
-Analyze chocolate sales data to identify revenue trends, top-performing products, and regional sales patterns.
+## Project Overview
+This project analyzes chocolate sales performance using SQL and Tableau. The dashboard provides insights into monthly revenue trends, top-performing products, and country-wise sales performance.
 
 ## Tools Used
 - SQL
 - Tableau
 - Excel
 
-## Dataset
-Includes:
-- Sales
-- Customers
-- Stores
-- Calendar
+## Tableau Dashboard
 
-## SQL Analysis
-Performed:
-- Joins
-- Aggregations
-- KPI calculations
-- Trend analysis
+This interactive Tableau dashboard helps analyze sales KPIs, revenue trends, product performance, and regional sales insights.
 
-## Dashboard KPIs
-- Total Revenue
-- Monthly Sales Trends
-- Top Products
-- Country Performance
+### Dashboard Preview
+
+![Chocolate Sales Dashboard](tableau_dashboard.png)
 
 ## Key Insights
-- Identified high revenue products
-- Analyzed country-wise performance
-- Observed monthly trends
+- Tracked total sales performance using KPI metrics
+- Identified top 5 revenue-generating products
+- Compared country-wise revenue performance
+- Analyzed monthly sales trends
+- Built interactive year filter for dynamic analysis
+
+## Files Included
+- SQL Queries File
+- Tableau Dashboard Screenshot
+- Project PDF Report
+
+## Skills Demonstrated
+- SQL Querying
+- Data Visualization
+- Dashboard Design
+- KPI Reporting
+- Business Insight Analysis
